@@ -3,11 +3,11 @@
 
 I'm an Electronics and Communication Engineering student passionate about Embedded Systems, IoT, Artificial Intelligence, and Software Development. I enjoy building practical projects, exploring new technologies, and turning ideas into real-world solutions.
 
-- 🔭 **Currently Working On:** Smart AI-Enabled Digital Stethoscope
-- 🌱 **Currently Learning:** Machine Learning, Python, C++, and Embedded Systems
-- 💡 **Interests:** IoT, Robotics, AI/ML, and Hardware-Software Integration
-- 🤝 **Looking to Collaborate On:** Embedded Systems and innovative technology projects
-- ⚡ **Fun Fact:** I love learning by building and experimenting with new ideas.
+- **Currently Working On:** Smart AI-Enabled Digital Stethoscope
+- **Currently Learning:** Machine Learning, Python, C++, and Embedded Systems
+- **Interests:** IoT, Robotics, AI/ML, and Hardware-Software Integration
+- **Looking to Collaborate On:** Embedded Systems and innovative technology projects
+- **Fun Fact:** I love learning by building and experimenting with new ideas.
 
 ## 🌐 Socials
 
@@ -52,7 +52,7 @@ I'm an Electronics and Communication Engineering student passionate about Embedd
 
 ---
 
-![](https://komarev.com/ghpvc/?username=shifanathts&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=shifanathts&style=flat&color=0e75b6)
 
 <p align="center">
   <picture>
