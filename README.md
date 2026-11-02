@@ -54,8 +54,6 @@ I'm an Electronics and Communication Engineering student passionate about Embedd
 
 ![](https://komarev.com/ghpvc/?username=shifanathts&icon=0&color=0)
 
-## 🐍 GitHub Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shifanathts/shifanathts/output/github-snake-dark.svg" />
